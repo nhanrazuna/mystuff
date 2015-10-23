@@ -7,3 +7,8 @@
 
 This is a [link](http://razuna.org/)
 
+```javascript
+if (isAwesome){
+  return true
+}
+```
